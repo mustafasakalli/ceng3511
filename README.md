@@ -10,6 +10,6 @@ Clone Repository and goto your terminal, and the type __*python kokuros.py kokur
 
 **Limitations:** Unfortunately, this program only support __3x3 cells__ 
 
-
+__Example Usage:__
 
 ![Expected Output](/p2/example_picture.PNG)
